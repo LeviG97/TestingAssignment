@@ -25,7 +25,7 @@ namespace TestingAssignment
         }
         public class InsuranceService
         {
-            private DiscountService discountService;
+            public DiscountService discountService;
 
 
 
